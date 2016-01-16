@@ -1,0 +1,50 @@
+#wrapper {
+/*	border: 1px solid black;*/
+}
+
+body {
+	background: url("/assets/img/loginbg.jpg");
+	color: #787878;
+}
+
+label {
+	display: inline-block;
+	text-align: right;
+	width: 100px;
+}
+
+h4 {
+	margin-left: 45%;
+}
+
+#register {
+/*	border: 1px solid black;*/
+	width: 300px;
+	background-color: rgba(224, 255, 255, .2);
+	border-radius: 5px;
+	margin-top: 25px;
+}
+
+#login {
+	width: 300px;
+	margin-top: 5px;
+	background-color: rgba(224, 255, 255, .2);
+	border-radius: 5px;
+}
+
+.btn {
+	margin-left: 45%;
+}
+
+#aboutSection {
+	display: inline-block;
+/*	border: 1px solid black;*/
+	width: 300px;
+	margin-left: 600px;
+	margin-top: -300px;
+	padding: 15px;
+}
+
+#abouttext {
+	font-size: 150%;
+}

@@ -1,0 +1,16 @@
+/*#wrapper {
+	
+}*/
+
+body {
+	background: url('/assets/img/loginbg.jpg');
+	color: #787878;
+}
+#bookreviews {
+	border-right: 1px solid silver;
+}
+
+#otherbooks {
+/*	border: 1px solid black;*/
+/*	overflow: scroll;*/
+}

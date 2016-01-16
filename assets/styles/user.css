@@ -1,0 +1,19 @@
+#userinfo {
+	border: 1px solid #ededed;
+	background-color: rgba(232, 232, 232, .5);
+	border-radius: 5px;
+
+}
+
+#bookreviews {
+	margin-top: 5px;
+	border: 1px solid #ededed;
+	background-color: rgba(232, 232, 232, .5);
+	border-radius: 5px;
+	height: 150px;
+}
+
+body {
+		background: url('/assets/img/loginbg.jpg');
+		color: #787878;
+}
